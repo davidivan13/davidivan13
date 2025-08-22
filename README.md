@@ -1,10 +1,10 @@
 ## 👋 Hallo, David Ivan Suprihanto 👋
 
-<h2 align="left">👋 Hallo, asdasd 👋</h2>
+<h2 align="left">👋 Hallo, David Ivan Suprihanto 👋</h2>
 
 <div align="left">
 
-## 👋 Hallo, asdasd 👋
+## 👋 Hallo, David Ivan Suprihanto 👋
 
 </div>
 <!--
