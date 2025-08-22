@@ -1,8 +1,6 @@
 ## 👋 Hallo, David Ivan Suprihanto 👋
 
-<p align="center">
-  ## 👋 Hallo, David Ivan Suprihanto 👋
-</p>
+<h2 align="center">👋 Hallo, asdasd 👋</h2>
 
 <!--
 **davidivan13/davidivan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
