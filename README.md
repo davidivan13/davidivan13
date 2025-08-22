@@ -1,10 +1,6 @@
-## 👋 Hallo, David Ivan Suprihanto 👋
+<div align="center">
 
-<h2 align="left">👋 Hallo, David Ivan Suprihanto 👋</h2>
-
-<div align="left">
-
-## 👋 Hallo, David Ivan Suprihanto 👋
+## 👋 Halo, Saya David Ivan Suprihanto, S.Kom. 👋
 
 </div>
 <!--
