@@ -1,7 +1,7 @@
-## <center>👋 Hallo, David Ivan Suprihanto 👋<center>
+## 👋 Hallo, David Ivan Suprihanto 👋
 
 <p align="center">
-  Ini teks di tengah
+  ## 👋 Hallo, David Ivan Suprihanto 👋
 </p>
 
 <!--
