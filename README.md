@@ -1,8 +1,8 @@
 ## 👋 Hallo, David Ivan Suprihanto 👋
 
-<h2 align="right">👋 Hallo, asdasd 👋</h2>
+<h2 align="left">👋 Hallo, asdasd 👋</h2>
 
-<div align="center">
+<div align="left">
 
 ## 👋 Hallo, asdasd 👋
 
