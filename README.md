@@ -2,6 +2,11 @@
 
 <h2 align="center">👋 Hallo, asdasd 👋</h2>
 
+<div align="center">
+
+## 👋 Hallo, asdasd 👋
+
+</div>
 <!--
 **davidivan13/davidivan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
