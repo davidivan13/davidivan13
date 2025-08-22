@@ -1,6 +1,6 @@
 ## 👋 Hallo, David Ivan Suprihanto 👋
 
-<h2 align="center">👋 Hallo, asdasd 👋</h2>
+<h2 align="right">👋 Hallo, asdasd 👋</h2>
 
 <div align="center">
 
