@@ -3,6 +3,9 @@
 ## 👋 Halo, Saya David Ivan Suprihanto, S.Kom. 👋
 
 </div>
+
+![banner](banner.png)
+
 <!--
 **davidivan13/davidivan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
