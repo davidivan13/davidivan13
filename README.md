@@ -6,6 +6,15 @@
 
 ![banner](banner.png)
 
+## :iphone: Sosial Media :iphone:
+
+![https://www.facebook.com/david.ivan.5076798](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![https://www.instagram.com/david34ivan/?next=%2F&hl=en](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://github.com/davidivan13](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![https://www.linkedin.com/in/david-ivan-suprihanto-746415249/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://wa.me/628961326878](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
+![https://mail.google.com/mail/?view=cm&fs=1&to=david34ivan@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 ## :computer: Skill :computer:
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
