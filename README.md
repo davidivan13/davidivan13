@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Halo, Saya David Ivan Suprihanto, S.Kom. 👋
+## 👋 Halo, Saya David Ivan Suprihanto 👋
 
 </div>
 
